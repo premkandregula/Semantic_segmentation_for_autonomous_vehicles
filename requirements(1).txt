@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+imageio
+scikit-learn
+tensorflow
+google-api-python-client
