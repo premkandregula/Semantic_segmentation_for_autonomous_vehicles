@@ -117,5 +117,4 @@ Dataset: Lyft x Udacity Challenge
 
 ## 📬 Contact
 
-For questions or collaborations, reach out via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/kandregula-prem-kumar-059642238)) 
-
+For questions or collaborations, reach out via [LinkedIn](https://www.linkedin.com/in/kandregula-prem-kumar-059642238) 
